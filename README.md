@@ -9,8 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Manharrr/leetCode/tree/master/0027-remove-element) |
+| [0867-transpose-matrix](https://github.com/Manharrr/leetCode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Manharrr/leetCode/tree/master/0027-remove-element) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Manharrr/leetCode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Manharrr/leetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

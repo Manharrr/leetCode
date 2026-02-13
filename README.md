@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manharrr/leetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Manharrr/leetCode/tree/master/0027-remove-element) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manharrr/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Manharrr/leetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Manharrr/leetCode/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Manharrr/leetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

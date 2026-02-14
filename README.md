@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Manharrr/leetCode/tree/master/0009-palindrome-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manharrr/leetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manharrr/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Manharrr/leetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0867-transpose-matrix](https://github.com/Manharrr/leetCode/tree/master/0867-transpose-matrix) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manharrr/leetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |

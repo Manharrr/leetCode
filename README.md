@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Manharrr/leetCode/tree/master/0027-remove-element) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manharrr/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Manharrr/leetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/Manharrr/leetCode/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/Manharrr/leetCode/tree/master/0867-transpose-matrix) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manharrr/leetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
@@ -42,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manharrr/leetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Manharrr/leetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Manharrr/leetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

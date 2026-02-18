@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Manharrr/leetCode/tree/master/0344-reverse-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Manharrr/leetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manharrr/leetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Manharrr/leetCode/tree/master/0217-contains-duplicate) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Manharrr/leetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |

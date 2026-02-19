@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manharrr/leetCode/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/Manharrr/leetCode/tree/master/0867-transpose-matrix) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manharrr/leetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Manharrr/leetCode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manharrr/leetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Manharrr/leetCode/tree/master/0217-contains-duplicate) |
+| [3668-restore-finishing-order](https://github.com/Manharrr/leetCode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Manharrr/leetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Manharrr/leetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Manharrr/leetCode/tree/master/0069-sqrtx) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Manharrr/leetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manharrr/leetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Manharrr/leetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manharrr/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Manharrr/leetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## String

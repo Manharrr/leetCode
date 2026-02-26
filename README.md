@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Manharrr/leetCode/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/Manharrr/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Manharrr/leetCode/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Manharrr/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Manharrr/leetCode/tree/master/0344-reverse-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Manharrr/leetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Table
